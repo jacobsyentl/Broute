@@ -1,0 +1,48 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.title {
+  display: block;
+  background-image: url(../img/bpost-logo.png);
+  background-repeat: no-repeat;
+  font-size: 2rem;
+  height: 10rem;
+  padding-left: 15rem;
+  padding-top: 5rem;
+  color: #57565a;
+  font-weight: bolder;
+}
+
+.title:hover {
+  text-decoration: none;
+  color: #57565a;
+}
+
+.container {
+  margin-bottom: 2.5rem;
+}
+
+label {
+  padding: 0!important;
+}
+
+fieldset {
+  margin-top: 15px;
+}
+
+input {
+  margin-bottom: 5px;
+}
+
+#map {
+  height: 700px;
+  width: 100%;
+}
+
+.mapIconLabel {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  font-family: 'DINNextRoundedLTProMediumRegular';
+}
