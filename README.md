@@ -6,4 +6,4 @@ Broute is an application that accommodates couriers with a handy map that will h
 
 ##Demo
 
-![app Demo]( "Demo of the application")
+![app Demo](https://github.com/jacobsyentl/Broute/blob/master/demo/Demo.gif "Demo of the application")
